@@ -320,6 +320,7 @@ body{
         background-color: #9D2929;
         width: 250px;
         padding-bottom: 20px;
+        z-index: 9;
     }
     .header-active{
         display: flex;
